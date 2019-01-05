@@ -17,12 +17,13 @@ It contains useful functions and classes which help us with URL actions (basic a
 
 ### Examples : 
 
-'''python
-python Image_Scraping.py
-'''
-<img src="https://github.com/HeliosX7/Web_Scraping/tree/master/images/pixabay.JPG">
+Run the python files present in this repository to get the following results :
 
-'''python
-python IMDb_Review_Scraping.py
-'''
-<img src="https://github.com/HeliosX7/Web_Scraping/tree/master/images/imdb.JPG">
+* Image_Scraping.py
+
+<img src="https://github.com/HeliosX7/Web_Scraping/blob/master/images/pixabay.JPG" width=450>
+
+
+* IMDb_Review_Scraping.py
+
+<img src="https://github.com/HeliosX7/Web_Scraping/blob/master/images/imdb.JPG" width=800>
