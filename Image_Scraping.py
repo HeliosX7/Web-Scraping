@@ -17,7 +17,7 @@ def get_images(url):
 
     total_images=str(len(images))
     
-    print( total_images + " images found.")
+    print( "\n" + total_images + " images found.")
     print('Downloading images to current working directory.')
 
     i=1
