@@ -14,3 +14,15 @@ It contains useful functions and classes which help us with URL actions (basic a
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/ "BeautifulSoup") (Scrapes the data) :
 
 >It is a Python library for pulling data out of HTML and XML files.It works with a parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. We can use it to extract tables, lists, paragraph and you can also put filters to extract information from web pages.
+
+### Examples : 
+
+'''python
+python Image_Scraping.py
+'''
+<img src="https://github.com/HeliosX7/Web_Scraping/tree/master/images/pixabay.JPG">
+
+'''python
+python IMDb_Review_Scraping.py
+'''
+<img src="https://github.com/HeliosX7/Web_Scraping/tree/master/images/imdb.JPG">
