@@ -21,9 +21,9 @@ Run the python files present in this repository to get the following results :
 
 * Image_Scraping.py
 
-<img src="https://github.com/HeliosX7/Web_Scraping/blob/master/images/pixabay.JPG" width=450>
+<img src="https://github.com/HeliosX7/Web_Scraping/blob/master/images/pixabay.JPG" width="500">
 
 
 * IMDb_Review_Scraping.py
 
-<img src="https://github.com/HeliosX7/Web_Scraping/blob/master/images/imdb.JPG" width=800>
+<img src="https://github.com/HeliosX7/Web_Scraping/blob/master/images/imdb.JPG" width="500">
