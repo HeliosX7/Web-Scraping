@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/HeliosX7/Web-Scraping.svg)](http://hits.dwyl.io/HeliosX7/Web-Scraping)
+
 # Web Scraping using Python
 
 Web scraping simply refers to the extracting and processing of information/data from websites. This abitity to scrape data from the internet is very useful. Through scraping we can transform unstructured data (HTML format) on the web into structured data (database or spreadsheet) for easier manipulation.
